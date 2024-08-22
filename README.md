@@ -11,11 +11,11 @@ This app is a daily to-do tracker designed to help users efficiently manage and 
 To run this project yoy need:
   1. Clone this repo:
 
-    git clone https://github.com/OSpyrydonov/todo-app.git
+    git clone https://github.com/OSpyrydonov/vue-todo-app.git
 
   2. Open this repo on your IDE:
 
-    code todo-app
+    code vue-todo-app
 
   4. Istall depedencies:
 
@@ -27,7 +27,7 @@ or
 
   5. Start the project:
 
-    npm start
+    npm run dev
 
 ## Stack used:
 * [![Vue][Vue.js]][Vue-url]
