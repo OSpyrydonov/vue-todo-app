@@ -30,7 +30,7 @@ or
     npm start
 
 ## Stack used:
-* [![Vue.js][Vue-url]][React-url]
+* [![Vue][Vue.js]][Vue-url]
 
 ## Contact
 
